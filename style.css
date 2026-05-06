@@ -121,6 +121,7 @@
       line-height:1;
       margin-bottom:20px;
       text-transform:uppercase;
+      color: whitesmoke;
     }
 
     .gradient-text{
@@ -224,6 +225,7 @@
     .service-card h4{
       font-weight:800;
       margin-bottom:15px;
+      color: whitesmoke;
     }
 
     .service-card p{
